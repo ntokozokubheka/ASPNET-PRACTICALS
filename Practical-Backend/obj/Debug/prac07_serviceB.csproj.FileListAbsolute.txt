@@ -1,0 +1,14 @@
+C:\Users\Dave\source\repos\prac07_serviceB\bin\prac07_serviceB.dll.config
+C:\Users\Dave\source\repos\prac07_serviceB\bin\prac07_serviceB.dll
+C:\Users\Dave\source\repos\prac07_serviceB\bin\prac07_serviceB.pdb
+C:\Users\Dave\source\repos\prac07_serviceB\obj\Debug\prac07_serviceB.csproj.AssemblyReference.cache
+C:\Users\Dave\source\repos\prac07_serviceB\obj\Debug\prac07_serviceB.csproj.CoreCompileInputs.cache
+C:\Users\Dave\source\repos\prac07_serviceB\obj\Debug\prac07_serviceB.dll
+C:\Users\Dave\source\repos\prac07_serviceB\obj\Debug\prac07_serviceB.pdb
+T:\C-e-commerce-site--main\service\bin\prac07_serviceB.dll.config
+T:\C-e-commerce-site--main\service\bin\prac07_serviceB.dll
+T:\C-e-commerce-site--main\service\bin\prac07_serviceB.pdb
+T:\C-e-commerce-site--main\service\obj\Debug\prac07_serviceB.csproj.AssemblyReference.cache
+T:\C-e-commerce-site--main\service\obj\Debug\prac07_serviceB.csproj.CoreCompileInputs.cache
+T:\C-e-commerce-site--main\service\obj\Debug\prac07_serviceB.dll
+T:\C-e-commerce-site--main\service\obj\Debug\prac07_serviceB.pdb
